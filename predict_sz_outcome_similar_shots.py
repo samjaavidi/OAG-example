@@ -15,7 +15,7 @@ import ctypes
 ROLE_PROMPT = (
     """You are an experienced epileptologist and epilepsy surgery specialist evaluating a patient for surgical intervention. \n\n
     "### Core Task\n
-    instruction: BLA BLAH BLAH ...
+    Clinical instruction is removed from this public version.
     
     Outcome: [Good/Poor] """
 )
